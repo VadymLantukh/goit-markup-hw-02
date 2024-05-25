@@ -99,6 +99,7 @@ a {
 
 .feature-section-paragraph-item {
     color: #434455;
+    letter-spacing: 0.02em;
 }
 
 .team-section {
@@ -108,16 +109,27 @@ a {
 .team-section-title {
     font-weight: 700;
     font-size: 36px;
+    letter-spacing: 0.02em;
+    text-align: center;
+    line-height: 1.11;
+    text-transform: capitalize
+}
+
+.team-section-item {
+    background-color: #fff;
 }
 
 .team-section-title-item {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
+    letter-spacing: 0.02em
 }
 
 .team-section-paragraph-item {
     line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
 
 .portfolio-section-title {
