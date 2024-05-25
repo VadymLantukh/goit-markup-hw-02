@@ -1,7 +1,7 @@
 body {
     font-family: "Roboto", sans-serif;
     background-color: #fff;
-    color: #2e2f42;
+    color: #434455;
 }
 
 button {
@@ -74,8 +74,6 @@ a {
 
 .main-section-button {
     background-color: #4d5ae5;
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-    border-radius: 4px;
     font-weight: 500;
     color: #fff;
     line-height: 1.5;
